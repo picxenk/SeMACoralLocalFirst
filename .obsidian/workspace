@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "a59b040d776ac3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "987fb21c8ad5d643",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c8855f523e8a927c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SeMA Coral.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "507a2cc477c85f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4cb7f113fd8ff05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44f3e535c6ba3ed5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e7b2934e7246722",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25130aaba90b3800",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c377656c89f5be9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7954056eb1714544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "113db1117ec3bf51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7366f1a676d229de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "832e81f2b6c477bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "195b921f9e24a74d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "987fb21c8ad5d643",
+  "lastOpenFiles": [
+    "SeMA Coral.md",
+    "Home.md"
+  ]
+}

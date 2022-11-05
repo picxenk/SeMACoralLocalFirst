@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "a59b040d776ac3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b5bea451c45c483",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "987fb21c8ad5d643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "차곡차곡 쌓인 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "507a2cc477c85f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4cb7f113fd8ff05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44f3e535c6ba3ed5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e7b2934e7246722",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25130aaba90b3800",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c377656c89f5be9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7954056eb1714544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "113db1117ec3bf51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "차곡차곡 쌓인 페이지.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7366f1a676d229de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "차곡차곡 쌓인 페이지.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "832e81f2b6c477bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "195b921f9e24a74d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "차곡차곡 쌓인 페이지.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "987fb21c8ad5d643",
+  "lastOpenFiles": [
+    "여러분의 발자국.md",
+    "번역어.md",
+    "김승범 (Seungbum Kim).md",
+    "경험을 일으키는 키트.md",
+    "SeMA Coral.md",
+    "Obsidian 웹 출판 서비스.md",
+    "Local.md",
+    "Local-first Software.md",
+    "Obsidian.md",
+    "There Is No Cloud.md"
+  ]
+}
