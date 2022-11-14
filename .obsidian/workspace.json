@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "우리가 생각하는 대로.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8b33230399da045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SeMA Coral.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "페이지를 만드세요.md",
+                "file": "Federated Wiki.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,86 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Local-first Knowledge를 위한 실천.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a682823524d3bb4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨팅 분야의 개념에서 차용.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f89900041a20f10c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e637e5ca59deb845",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "거대언어모델과 대화하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c82d58df2bacb28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "여러분의 발자국.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7132b57869ddb33b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Local.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8babda23012c3bf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Local.md",
+                "file": "분산버전관리시스템.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -183,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Local-first Knowledge를 위한 실천.md",
+                "file": "SeMA Coral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Local-first Knowledge를 위한 실천.md",
+                "file": "SeMA Coral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Local-first Knowledge를 위한 실천.md"
+                "file": "SeMA Coral.md"
               }
             }
           }
@@ -233,20 +173,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "b3888ae9ae3610fc",
+  "active": "f8b33230399da045",
   "lastOpenFiles": [
-    "이 웹사이트를 포킹.md",
-    "컴퓨팅 분야의 개념에서 차용.md",
-    "Github 저장소.md",
-    "Git.md",
-    "페이지를 만드세요.md",
     "README.md",
+    "워드 커닝햄.md",
+    "김승범 (Seungbum Kim).md",
+    "그 개념은 널리 퍼지진 않았습니다.md",
     "거대언어모델과 대화하기.md",
-    "포킹.md",
-    "0_TODO.md",
-    "Local.md"
+    "There Is No Cloud.md",
+    "Obsidian 웹 출판 서비스.md",
+    "Obsidian.md",
+    "Local-first Software의 원칙.md",
+    "차곡차곡 쌓인 페이지.md"
   ]
 }
