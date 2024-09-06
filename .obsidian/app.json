@@ -1,5 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "livePreview": true,
+  "spellcheck": false
 }

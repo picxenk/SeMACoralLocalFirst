@@ -11,53 +11,11 @@
             "id": "e45c7887e8a5f7ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "우리가 생각하는 대로.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8b33230399da045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SeMA Coral.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2df73e6e39d7b11f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Federated Wiki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3888ae9ae3610fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "분산버전관리시스템.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "286cc0a1796e1da2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -123,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeMA Coral.md",
+                "file": "해킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeMA Coral.md",
+                "file": "해킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeMA Coral.md"
+                "file": "해킹.md"
               }
             }
           }
@@ -171,19 +137,86 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "f8b33230399da045",
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "floating": {
+    "id": "c8740a8b285898ec",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c71fe6a4de2b52c6",
+        "type": "window",
+        "children": [
+          {
+            "id": "f08c8bc02d169625",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "92cb82bfc1406c0c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "해킹.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 285,
+        "y": 431,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
+  "active": "92cb82bfc1406c0c",
   "lastOpenFiles": [
-    "README.md",
+    "포킹.md",
+    "페이지를 만드세요.md",
+    "컴퓨팅 분야의 개념에서 차용.md",
+    "컴퓨팅 맥락의 Local.md",
+    "차곡차곡 쌓인 페이지.md",
+    "자동 결제를 꺼둔 구독 서비스.md",
+    "임시의 정보.md",
+    "일 년 후에 사라지는.md",
+    "이 웹사이트를 포킹.md",
+    "이 사이트는 2023년 10월 31일 호스팅을 종료.md",
     "워드 커닝햄.md",
+    "우리가 생각하는 대로.md",
+    "여전히 혼란스럽고 무슨 말인지 모르겠습니다.md",
+    "여러분의 발자국.md",
+    "여러 페이지로 분산.md",
+    "여러 경로.md",
+    "사라질 것을 미리 선언하는 웹사이트.md",
+    "분산버전관리시스템.md",
+    "번역어.md",
+    "문제에 대한 해법이나 방법론.md",
+    "몇몇의 사건.md",
+    "몇 가지 경험.md",
     "김승범 (Seungbum Kim).md",
     "그 개념은 널리 퍼지진 않았습니다.md",
-    "거대언어모델과 대화하기.md",
-    "There Is No Cloud.md",
-    "Obsidian 웹 출판 서비스.md",
-    "Obsidian.md",
-    "Local-first Software의 원칙.md",
-    "차곡차곡 쌓인 페이지.md"
+    "경험을 일으키는 키트.md",
+    "거대언어모델과 대화하기.md"
   ]
 }
