@@ -1,1 +1,334 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SeMACoralLocalFirst]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>SeMACoralLocalFirst</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 07:16:05 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 07:16:05 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator></channel></rss>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SeMACoralLocalFirst]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>SeMACoralLocalFirst</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 07:19:03 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 07:19:01 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[0_TODO]]></title><description><![CDATA[ 
+ <br>이 사이트에서 추가가 되어야 할 작업입니다.<br><br>제텔카스텐을 여기에서 언급하면 좋을까? (<a rel="noopener" target="_self" class="internal-link">지식과 정보를 관리하는 노트앱</a>)<a class="tasks-edit" title="Edit task" href="/#"></a>1 task]]></description><link>0_todo.html</link><guid isPermaLink="false">0_TODO.md</guid><pubDate>Sun, 30 Oct 2022 15:07:57 GMT</pubDate></item><item><title><![CDATA[Federated Wiki]]></title><description><![CDATA[ 
+ <br> <a rel="noopener" class="external-link" href="http://sites.fed.wiki.org/" target="_blank">http://sites.fed.wiki.org/</a><br>번역하자면 "연합위키"라고 할 수 있겠습니다.<br>위키피디아 같은 공공의 <a data-href="WikiWiki" href="/wikiwiki.html" class="internal-link" target="_self" rel="noopener">WikiWiki</a>가 공동편집은 가능하지만<br>
+결국 중앙화되고, 공동의 의견 일치를 요구한다면<br>연합위키는 서로의 편집이 존중되면서 유지되는<br>
+<a data-href="포킹" href="/포킹.html" class="internal-link" target="_self" rel="noopener">포킹</a>의 개념이 들어간 탈중앙화된 위키 시스템입니다.<br>Quote
+A chorus of voices that feels like a wiki
+위키처럼 느껴지는 여러 목소리의 합창
+(출처 : The Federated Wiki: <a data-href="워드 커닝햄" href="/워드-커닝햄.html" class="internal-link" target="_self" rel="noopener">워드 커닝햄</a> at TEDxPortland 2012)
+<br>2011년 시작된 프로젝트지만 아직 <a data-href="그 개념은 널리 퍼지진 않았습니다" href="/그-개념은-널리-퍼지진-않았습니다.html" class="internal-link" target="_self" rel="noopener">그 개념은 널리 퍼지진 않았습니다</a>.<br><img alt="Pasted image 20221104204947.png" src="/images/pasted-image-20221104204947.png"><br>
+(2022-11-04일자  ward.fed.wiki.org 스크린샷)]]></description><link>federated-wiki.html</link><guid isPermaLink="false">Federated Wiki.md</guid><pubDate>Mon, 07 Nov 2022 02:48:56 GMT</pubDate><enclosure url="images/pasted-image-20221104204947.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="images/pasted-image-20221104204947.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Git]]></title><description><![CDATA[ 
+ <br>대표적인 <a data-href="분산버전관리시스템" href="/분산버전관리시스템.html" class="internal-link" target="_self" rel="noopener">분산버전관리시스템</a>입니다.]]></description><link>git.html</link><guid isPermaLink="false">Git.md</guid><pubDate>Sat, 05 Nov 2022 16:31:45 GMT</pubDate></item><item><title><![CDATA[Github 저장소]]></title><description><![CDATA[ 
+ <br>저장소의 위치는<br>
+<a rel="noopener" class="external-link" href="https://github.com/picxenk/SeMACoralLocalFirst" target="_blank">https://github.com/picxenk/SeMACoralLocalFirst</a><br>
+입니다.<br>Github 사용법을 설명하지는 않겠습니다.<br>수 많은 뉴미디어 예술가와 창작자들이<br>
+<a data-href="컴퓨팅 분야의 개념에서 차용" href="/컴퓨팅-분야의-개념에서-차용.html" class="internal-link" target="_self" rel="noopener">컴퓨팅 분야의 개념에서 차용</a>해서<br>
+큰 영감을 받고 있는데요,<br>그 중에 대표적인 도구가 <a data-href="Git" href="/git.html" class="internal-link" target="_self" rel="noopener">Git</a>입니다.<br>Github는 Git을 쉽게 사용할 수 있도록 도와주는 웹서비스입니다.<br>기회가 된다면 꼭 배워보세요.]]></description><link>github-저장소.html</link><guid isPermaLink="false">Github 저장소.md</guid><pubDate>Sat, 05 Nov 2022 16:31:27 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br>반갑습니다.<br>저는 <a data-href="이 웹사이트의 저자" href="/이-웹사이트의-저자.html" class="internal-link" target="_self" rel="noopener">이 웹사이트의 저자</a>입니다.<br>이곳은<br>
+<a data-href="SeMA Coral" href="/sema-coral.html" class="internal-link" target="_self" rel="noopener">SeMA Coral</a> 커미션을 받은,<br><a data-href="일 년 후에 사라지는" href="/일-년-후에-사라지는.html" class="internal-link" target="_self" rel="noopener">일 년 후에 사라지는</a>,<br><a data-href="임시의 정보" href="/임시의-정보.html" class="internal-link" target="_self" rel="noopener">임시의 정보</a>를 담은<br>
+글이자 웹사이트로<br><a data-href="몇 가지 경험" href="/몇-가지-경험.html" class="internal-link" target="_self" rel="noopener">몇 가지 경험</a>을 제공합니다.<br>모바일 기기가 아닌 PC 환경의 웹브라우저를 이용해서<br>
+이 웹사이트를 읽어주세요.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Wed, 01 Feb 2023 04:00:36 GMT</pubDate></item><item><title><![CDATA[Local]]></title><description><![CDATA[ 
+ <br>Local의 사전적 의미는 아래와 같습니다. <br>Local (Oxford Learner's Dictionary)
+
+<br>belonging to or connected with the particular place or area that you are talking about or with the place where you live<br>
+당신이 이야기하고 있는 특정 장소나 지역 또는 당신이 살고 있는 장소에 속하거나 연결되어 있는 (구글 번역)
+<br>affecting only one part of the body<br>
+신체의 한 부분에만 영향을 미치는 (구글 번역)
+
+<br>그러나 여기서 말하는 <a data-href="Local" href="/local.html" class="internal-link" target="_self" rel="noopener">Local</a>은<br>
+먼저 <a data-href="컴퓨팅 맥락의 Local" href="/컴퓨팅-맥락의-local.html" class="internal-link" target="_self" rel="noopener">컴퓨팅 맥락의 Local</a>로 이해할 필요가 있습니다.]]></description><link>local.html</link><guid isPermaLink="false">Local.md</guid><pubDate>Sat, 05 Nov 2022 16:00:10 GMT</pubDate></item><item><title><![CDATA[Local Knowledge]]></title><description><![CDATA[ 
+ <br>어느 동네의 지리나 지역의 특징은<br>
+동네 토박이가 가장 잘 알고 있겠죠.<br><a data-href="Local-first Knowledge" href="/local-first-knowledge.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge</a>는 이런<br>
+지역의 정보를 말하는건 아닙니다.]]></description><link>local-knowledge.html</link><guid isPermaLink="false">Local Knowledge.md</guid><pubDate>Sat, 05 Nov 2022 12:23:44 GMT</pubDate></item><item><title><![CDATA[Local-first]]></title><description><![CDATA[ 
+ <br>일상에서 흔히 사용하는 단어이기에<br>
+오해를 일으키기 쉽습니다.<br><a data-href="Local" href="/local.html" class="internal-link" target="_self" rel="noopener">Local</a>이란 단어는<br>
+자연스럽게<br>
+글로벌이란 단어와 비교됩니다.<br>글로벌한 시선, 생각, 행동 등등<br>
+글로벌이 더 현대화된 접근 같습니다.<br>그래서 Local-first가<br>
+좁은 시선, 생각, 행동으로 느껴지기도 합니다.<br>Local-first는 <a data-href="Local-first Software" href="/local-first-software.html" class="internal-link" target="_self" rel="noopener">Local-first Software</a>라는<br>
+<a data-href="컴퓨팅 분야의 개념에서 차용" href="/컴퓨팅-분야의-개념에서-차용.html" class="internal-link" target="_self" rel="noopener">컴퓨팅 분야의 개념에서 차용</a>했기에<br>
+<a data-href="Local-first Software의 원칙" href="/local-first-software의-원칙.html" class="internal-link" target="_self" rel="noopener">Local-first Software의 원칙</a>을 이해할 필요가 있습니다.]]></description><link>local-first.html</link><guid isPermaLink="false">Local-first.md</guid><pubDate>Sat, 05 Nov 2022 12:36:12 GMT</pubDate></item><item><title><![CDATA[Local-first Knowledge]]></title><description><![CDATA[ 
+ <br><a data-href="Local-first" href="/local-first.html" class="internal-link" target="_self" rel="noopener">Local-first</a>라는 말이 자칫 오해를 일으킬 수도 있을거 같습니다.<br><a data-href="Local-first Software" href="/local-first-software.html" class="internal-link" target="_self" rel="noopener">Local-first Software</a>라는 <a data-href="컴퓨팅 분야의 개념에서 차용" href="/컴퓨팅-분야의-개념에서-차용.html" class="internal-link" target="_self" rel="noopener">컴퓨팅 분야의 개념에서 차용</a>했다는 점을 염두에 두고 이 아이디어를 읽어주세요.<br>Local-first Knowledge는,<br>
+<br><a data-href="Local Knowledge" href="/local-knowledge.html" class="internal-link" target="_self" rel="noopener">Local Knowledge</a>를 의미하는게 아닙니다.
+<br>특정 <a data-href="문제에 대한 해법이나 방법론" href="/문제에-대한-해법이나-방법론.html" class="internal-link" target="_self" rel="noopener">문제에 대한 해법이나 방법론</a>을 주장하는게 아닙니다.
+<br>모든 것을 내 안(<a data-href="Local" href="/local.html" class="internal-link" target="_self" rel="noopener">Local</a>)에 두자는 말이 아닙니다.
+<br>대다수가 한 방향으로 걷고 있는 길에서<br>
+한 번 멈추고 생각해보고자 던지는 질문에 가깝습니다.<br>그리고 생각만으로 끝나지 않고<br>
+완벽하진 않더라도<br>
+<a data-href="Local-first Knowledge를 위한 실천" href="/local-first-knowledge를-위한-실천.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge를 위한 실천</a>을 제안해봅니다.]]></description><link>local-first-knowledge.html</link><guid isPermaLink="false">Local-first Knowledge.md</guid><pubDate>Sat, 05 Nov 2022 12:32:01 GMT</pubDate></item><item><title><![CDATA[Local-first Knowledge를 위한 실천]]></title><description><![CDATA[ 
+ <br><a data-href="Local-first Knowledge" href="/local-first-knowledge.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge</a>에 대해 이해하고 행동하기 위한 몇 가지 실천을 나열해봅니다.<br>
+<br><a data-href="Local-first Software" href="/local-first-software.html" class="internal-link" target="_self" rel="noopener">Local-first Software</a>에 대해 읽고 생각해보세요.
+<br><a data-href="몇몇의 사건" href="/몇몇의-사건.html" class="internal-link" target="_self" rel="noopener">몇몇의 사건</a>을 통해 겪은 여러분의 삶의 영향을 생각해보세요.
+<br><a data-href="이 웹사이트를 포킹" href="/이-웹사이트를-포킹.html" class="internal-link" target="_self" rel="noopener">이 웹사이트를 포킹</a>해서 소유해보세요.
+<br><a data-href="여러 페이지로 분산" href="/여러-페이지로-분산.html" class="internal-link" target="_self" rel="noopener">여러 페이지로 분산</a>된 글쓰기를 시도해보세요.
+<br><a data-href="분산버전관리시스템" href="/분산버전관리시스템.html" class="internal-link" target="_self" rel="noopener">분산버전관리시스템</a> 같은 개념이 여러분의 작업에 적용될 수 있는지 고민해보세요.
+
+<br>예를 들어 <a data-href="WikiWiki" href="/wikiwiki.html" class="internal-link" target="_self" rel="noopener">WikiWiki</a>를 이미 알고 있는 사람에게 <a data-href="Federated Wiki" href="/federated-wiki.html" class="internal-link" target="_self" rel="noopener">Federated Wiki</a>를 경험하는 것은 (이 시스템의 성공여부를 떠나) 새로운 관점과 통찰을 줍니다.
+
+
+]]></description><link>local-first-knowledge를-위한-실천.html</link><guid isPermaLink="false">Local-first Knowledge를 위한 실천.md</guid><pubDate>Sun, 06 Nov 2022 03:32:51 GMT</pubDate></item><item><title><![CDATA[Local-first Software]]></title><description><![CDATA[ 
+ <br>이 용어의 <a data-href="번역어" href="/번역어.html" class="internal-link" target="_self" rel="noopener">번역어</a> 사용은 좀 더 미루기로 합니다.<br>Local-first Software는 2019년 Onward! 컨퍼런스에서<br>
+네 명 (Martin Kleppmann, Adam Wiggins, Peter van Hardenberg, Mark McGranaghan)의<br>
+개발자이자 연구자가 발표한 개념입니다.<br>자세한 내용은 <a data-href="Local-first Software 원문" href="/local-first-software-원문.html" class="internal-link" target="_self" rel="noopener">Local-first Software 원문</a>에서 읽어볼 수 있습니다.<br>Quote
+Google 문서 및 Trello와 같은 클라우드(cloud) 앱은 동료와 실시간 공동 작업을 가능하게 하고 모든 장치에서 작업에 쉽게 액세스할 수 있기 때문에 인기가 있습니다. 그러나 데이터 저장소를 서버에 중앙 집중화함으로써 클라우드 앱은 사용자의 소유권과 대리(agency)도 빼앗습니다. 서비스가 종료되면 소프트웨어가 작동을 중지하고 해당 소프트웨어로 생성된 데이터가 손실됩니다.
+<br>어쩌면 진정한 클라우드라는건<br>
+아직 존재하지 않는 기술적 대상일지도 모르겠습니다. <a data-href="There Is No Cloud" href="/there-is-no-cloud.html" class="internal-link" target="_self" rel="noopener">There Is No Cloud</a><br>지금까지 동작했기에 앞으로도 계속 동작하는게 당연하다는<br>
+무의식적인 감각은 <a data-href="몇몇의 사건" href="/몇몇의-사건.html" class="internal-link" target="_self" rel="noopener">몇몇의 사건</a>으로 깨지기도 했습니다.<br>Quote
+이 글에서 우리는 "Local-first Software"를 제안합니다. 사용자의 공동 작업과 소유권을 모두 가능하게 하는 소프트웨어에 대한 일련의 원칙입니다. Local-first는 오프라인으로 작업하고 여러 장치에서 협업할 수 있고, 동시에 보안, 개인 정보 보호, 장기 보존 및 데이터의 사용자 제어를 개선합니다.
+<br>현재 클라우드 기반 서비스들의 장점들(실시간 공동 작업, 다중 장치에서의 동기화 등)은 데이터를 직접 소유/관리하는 접근과 양립할 수 없다고 생각했습니다.<br>Local-first Software 가 되기 위한 몇 가지 이상적인 조건들이 있습니다. <a data-href="Local-first Software의 원칙" href="/local-first-software의-원칙.html" class="internal-link" target="_self" rel="noopener">Local-first Software의 원칙</a>이라 말할 수 있겠네요.]]></description><link>local-first-software.html</link><guid isPermaLink="false">Local-first Software.md</guid><pubDate>Sat, 05 Nov 2022 08:11:17 GMT</pubDate></item><item><title><![CDATA[Local-first Software 원문]]></title><description><![CDATA[ 
+ <br><a rel="noopener" class="external-link" href="https://www.inkandswitch.com/local-first/" target="_blank">https://www.inkandswitch.com/local-first/</a> <br>"Local-first Software : You own your data, in spite of the cloud"<br>Martin Kleppmann<br>
+Adam Wiggins<br>
+Peter van Hardenberg<br>
+Mark McGranaghan<br>April, 2019]]></description><link>local-first-software-원문.html</link><guid isPermaLink="false">Local-first Software 원문.md</guid><pubDate>Fri, 04 Nov 2022 16:11:29 GMT</pubDate></item><item><title><![CDATA[Local-first Software의 원칙]]></title><description><![CDATA[ 
+ <br><a data-href="Local-first Software 원문" href="/local-first-software-원문.html" class="internal-link" target="_self" rel="noopener">Local-first Software 원문</a>에서는 "2. Seven Ideals for Local-first Software"에서 설명하고 있습니다.<br>
+<br>기다림 없이 손 끝에서 바로 작업 (No Spinners: Your Work at Your Fingertips)
+<br>하나의 장비에 얽매이지 않고 작업 (Your Work Is Not Trapped on One Device)
+<br>네트워크는 선택사항 (The Network Is Optional)
+<br>동료들과 원활한 협업 (Seamless Collaboration with Your Colleagues)
+<br>오래 유지되기 (The Long Now)
+<br>보안과 정보보호는 기본 (Security and Privacy by Default)
+<br>궁극적인 소유권과 제어권 (You Retain Ultimate Ownership and Control)
+<br>이 모든 원칙들을 온전히 달성하는 소프트웨어는 아직 없지만<br>
+<a data-href="Local-first Software" href="/local-first-software.html" class="internal-link" target="_self" rel="noopener">Local-first Software</a>를 지향하며 노력하는 사례들은 조금씩 생겨나고 있습니다.]]></description><link>local-first-software의-원칙.html</link><guid isPermaLink="false">Local-first Software의 원칙.md</guid><pubDate>Fri, 04 Nov 2022 16:13:15 GMT</pubDate></item><item><title><![CDATA[Obsidian]]></title><description><![CDATA[ 
+ <br>옵시디언 (<a rel="noopener" class="external-link" href="https://obsidian.md/" target="_blank">https://obsidian.md/</a>) 은 <br>Quote
+"A second brain,<br>
+for you, forever" 
+"당신을 위한,<br>
+영원한 두번째 두뇌"
+<br>라는 캐치프레이즈를 내걸고 있습니다.<br>수 많은 <a data-href="지식과 정보를 관리하는 노트앱" href="/지식과-정보를-관리하는-노트앱.html" class="internal-link" target="_self" rel="noopener">지식과 정보를 관리하는 노트앱</a> 중 하나입니다만,<br>
+몇 가지 이유로 이번 프로젝트에 사용했습니다.<br>그 중에 가장 큰 이유로,<br>
+이 앱이 <a data-href="Local-first Software" href="/local-first-software.html" class="internal-link" target="_self" rel="noopener">Local-first Software</a>를 지향하기 때문입니다.<br>이 앱을 홍보하는게 목적은 아니지만,<br>
+한 번 사용해보는 것은 추천합니다.]]></description><link>obsidian.html</link><guid isPermaLink="false">Obsidian.md</guid><pubDate>Thu, 03 Nov 2022 13:08:00 GMT</pubDate></item><item><title><![CDATA[Obsidian 웹 출판 서비스]]></title><description><![CDATA[ 
+ <br><a data-href="Obsidian" href="/obsidian.html" class="internal-link" target="_self" rel="noopener">Obsidian</a>(옵시디언)이라는 특정 앱을 사용해서<br>
+이 사이트(분산된 글)를 작성하고 있습니다.<br>기본 앱 사용은 무료라 감사합니다.<br>
+대신 자체 동기화나 온라인 출판을 위한 구독 모델을 제공합니다.]]></description><link>obsidian-웹-출판-서비스.html</link><guid isPermaLink="false">Obsidian 웹 출판 서비스.md</guid><pubDate>Sat, 05 Nov 2022 08:13:42 GMT</pubDate></item><item><title><![CDATA[SeMACoralLocalFirst]]></title><description><![CDATA[ 
+ <br>Github 저장소를 위한 README 파일입니다.<br><br>
+<br>
+<a data-href="SeMA Coral" href="/sema-coral.html" class="internal-link" target="_self" rel="noopener">SeMA Coral</a> 커미션을 받은 프로젝트로
+
+<br>
+<a data-href="Local-first Knowledge" href="/local-first-knowledge.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge</a>에 대한 생각을 적은 <a data-href="여러 페이지로 분산" href="/여러-페이지로-분산.html" class="internal-link" target="_self" rel="noopener">여러 페이지로 분산</a>된 글입니다.
+
+<br>
+<a data-href="Obsidian 웹 출판 서비스" href="/obsidian-웹-출판-서비스.html" class="internal-link" target="_self" rel="noopener">Obsidian 웹 출판 서비스</a>로 <a data-href="이 사이트는 2023년 10월 31일 호스팅을 종료" href="/이-사이트는-2023년-10월-31일-호스팅을-종료.html" class="internal-link" target="_self" rel="noopener">이 사이트는 2023년 10월 31일 호스팅을 종료</a>하지만 
+
+<br>
+Github을 통해 파일은 유지되며 <a data-href="이 웹사이트를 포킹" href="/이-웹사이트를-포킹.html" class="internal-link" target="_self" rel="noopener">이 웹사이트를 포킹</a>해서 내용을 소유하거나 이어서 글을 편집하고 발전시킬 수 있습니다.
+
+<br>
+<a data-href="SeMA Coral" href="/sema-coral.html" class="internal-link" target="_self" rel="noopener">SeMA Coral</a>의 설명 페이지는 <a rel="noopener" class="external-link" href="http://semacoral.org/features/seungbumkim-local-first-knowledge-kit-for-sharing" target="_blank">http://semacoral.org/features/seungbumkim-local-first-knowledge-kit-for-sharing</a> 에서 읽을 수 있습니다. 
+
+]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Mon, 14 Nov 2022 12:51:54 GMT</pubDate></item><item><title><![CDATA[SeMA Coral]]></title><description><![CDATA[ 
+ <br><a rel="noopener" class="external-link" href="http://semacoral.org/" target="_blank">http://semacoral.org/</a><br>세마코랄은, <br>Info
+서울시립미술관 모두의 연구실 ‘코랄’ (세마 코랄 | SeMA Coral)은 웹-온라인을 매개로 지식 생산자와 사용자가 서로 교차하며 다양한 형태의 미술 지식을 탐구하고 연결짓고 확장하는 가능성을 실험하는 공간입니다. (출처: 세마 코랄)
+<br>라고 설명하고 있습니다.]]></description><link>sema-coral.html</link><guid isPermaLink="false">SeMA Coral.md</guid><pubDate>Mon, 14 Nov 2022 12:52:21 GMT</pubDate></item><item><title><![CDATA[There Is No Cloud]]></title><description><![CDATA[ 
+ <br>Quote
+There is no cloud. It's just someone else's computer<br>
+클라우드란건 없다. 그건 단지 다른 누군가의 컴퓨터일뿐이다.
+by Chris Watterston, 2016
+<br><img alt="there_is_no_cloud.png" src="/images/there_is_no_cloud.png"><br><a rel="noopener" class="external-link" href="https://www.chriswatterston.com/article/success-of-my-there-is-no-cloud-sticker" target="_blank">https://www.chriswatterston.com/article/success-of-my-there-is-no-cloud-sticker</a>]]></description><link>there-is-no-cloud.html</link><guid isPermaLink="false">There Is No Cloud.md</guid><pubDate>Sat, 29 Oct 2022 12:28:30 GMT</pubDate><enclosure url="images/there_is_no_cloud.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="images/there_is_no_cloud.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[WikiWiki]]></title><description><![CDATA[ 
+ <br>"위키피디아"로 많이 접하게 되는 그 "Wiki"입니다.<br>
+위키위키 자체가 하나의 작은 웹처럼 느껴집니다.<br>위키위키를 정보를 담은 여러 페이지의 링크 모음으로만 생각할 수 있지만,<br>그 시작은<br>읽기 전용의 웹페이지를<br>
+누구나 손 쉽게 수정하고<br>
+다른 페이지를 생성해서 연결할 수 있는<br>매우 급진적인 실험이었습니다.<br>다른 사람의 웹사이트를 고치면 <a data-href="해킹" href="/해킹.html" class="internal-link" target="_self" rel="noopener">해킹</a>한다고 생각할 수 있습니다.<br>
+오히려 이를 기본 기능이자 적극적으로 장려하게 만든 생각의 전환입니다.<br>자신만의 정보 페이지를 정리할 수 있고,<br>
+페이지 간에 상호 연결이 쉬워서<br>
+<a data-href="지식과 정보를 관리하는 노트앱" href="/지식과-정보를-관리하는-노트앱.html" class="internal-link" target="_self" rel="noopener">지식과 정보를 관리하는 노트앱</a>으로도 널리 사용되고 있습니다.]]></description><link>wikiwiki.html</link><guid isPermaLink="false">WikiWiki.md</guid><pubDate>Sat, 05 Nov 2022 05:33:43 GMT</pubDate></item><item><title><![CDATA[거대언어모델과 대화하기]]></title><description><![CDATA[ 
+ <br>GPT-3와 같은 거대언어모델(Large Language Model)은<br>
+<a data-href="우리가 생각하는 대로" href="/우리가-생각하는-대로.html" class="internal-link" target="_self" rel="noopener">우리가 생각하는 대로</a> 언어를 생성하는 것처럼 느껴집니다.<br>인류의 수 많은 텍스트를 학습한 언어모델을 통해<br>
+인류의 (언어적) 지혜를 가진 현자를<br>
+내 옆 가까이(<a data-href="Local" href="/local.html" class="internal-link" target="_self" rel="noopener">Local</a>)에 두는 경험을 하게 됩니다.<br>하지만 지혜를 가진 현자여서 그럴까요,<br>
+나와 다투거나 부정하기 보다는<br>
+내 생각(Prompt)에 항상 그럴듯한 답을 해주긴 합니다. :) <br>이 웹사이트에서 중간 중간 발견되는 GPT-3와의 대화는<br>
+거대인공지능의 입장에서 말하는 답변이라 생각하기 보다는<br>
+여러 답변 중 나의 기대와 가장 부합하는 결과를 선택적으로 발췌한 것입니다.]]></description><link>거대언어모델과-대화하기.html</link><guid isPermaLink="false">거대언어모델과 대화하기.md</guid><pubDate>Sat, 05 Nov 2022 15:57:46 GMT</pubDate></item><item><title><![CDATA[경험을 일으키는 키트]]></title><description><![CDATA[ 
+ <br>이 웹사이트도<br>
+일종의 키트(KIT)가 되었으면 합니다.<br>이 키트를 통해 <a data-href="몇 가지 경험" href="/몇-가지-경험.html" class="internal-link" target="_self" rel="noopener">몇 가지 경험</a>이 이뤄지길 기대합니다.]]></description><link>경험을-일으키는-키트.html</link><guid isPermaLink="false">경험을 일으키는 키트.md</guid><pubDate>Thu, 03 Nov 2022 13:03:05 GMT</pubDate></item><item><title><![CDATA[그 개념은 널리 퍼지진 않았습니다]]></title><description><![CDATA[ 
+ <br><a data-href="거대언어모델과 대화하기" href="/거대언어모델과-대화하기.html" class="internal-link" target="_self" rel="noopener">거대언어모델과 대화하기</a> (파파고 번역)
+(프롬프트)<br>
+The new <a data-href="Federated Wiki" href="/federated-wiki.html" class="internal-link" target="_self" rel="noopener">Federated Wiki</a>, created by <a data-href="WikiWiki" href="/wikiwiki.html" class="internal-link" target="_self" rel="noopener">WikiWiki</a>'s father, Ward Cunningham, has great concepts, which are<br>
+위키위키의 아버지인 <a data-href="워드 커닝햄" href="/워드-커닝햄.html" class="internal-link" target="_self" rel="noopener">워드 커닝햄</a>에 의해 만들어진 새로운 연합위키는 훌륭한 개념들을 가지고 있다. 그것은
+(이후 GPT-3생성)<br>
+similar to ones that I've proposed myself for the next generation of wiki technology. It is a federated system, so there is no single point of control. It is also a system of small sites which are loosely coupled. It is a great idea, and it is based on an interesting technical architecture.<br>
+차세대 위키 기술을 위해 제가 제안한 것과 비슷하다. 그것은 연합된 시스템이기 때문에 단일 통제 지점이 없다. 그것은 또한 느슨하게 결합된 작은 사이트들의 시스템이다. 이것은 좋은 생각이고, 흥미로운 기술 구조에 기반을 두고 있다.
+The Federated Wiki is a great idea, but it faces some significant challenges.<br>
+연합위키는 좋은 생각이지만 몇 가지 중요한 도전에 직면해 있다.
+The first challenge is that it is a new system, and it is not yet widely adopted. The second challenge is that it is based on an interesting but complex technical architecture. The third challenge is that it is not yet clear how the system will be governed.<br>
+첫 번째 도전은 그것이 새로운 시스템이고, 아직 널리 채택되지 않았다는 것이다. 두 번째 과제는 흥미롭지만 복잡한 기술 아키텍처를 기반으로 한다는 것이다. 세 번째 과제는 시스템이 어떻게 관리될지 아직 명확하지 않다는 것이다.
+]]></description><link>그-개념은-널리-퍼지진-않았습니다.html</link><guid isPermaLink="false">그 개념은 널리 퍼지진 않았습니다.md</guid><pubDate>Sat, 05 Nov 2022 13:32:22 GMT</pubDate></item><item><title><![CDATA[김승범 (Seungbum Kim)]]></title><description><![CDATA[ 
+ <br><a rel="noopener" class="external-link" href="https://metakits.cc" target="_blank">https://metakits.cc</a>, <a rel="noopener" class="external-link" href="http://protoroom.kr/" target="_blank">http://protoroom.kr/</a><br>엔드 유저를 위한 (혹은 의한) 컴퓨팅에 관심을 두고 작업합니다.<br>메타미디어로서의 컴퓨팅이 일상의 리터러시가 되어<br>
+개개인이 사유하고 표현할 때,&nbsp;<br>우리 문화와 사회를 채우고 있는 기술 매체에 대해<br>
+다르게 읽고 생각할 계기와 맥락이 만들어진다 생각합니다.<br>이를 위한 언어적이면서,<br>
+동시에 비언어적인 <a data-href="경험을 일으키는 키트" href="/경험을-일으키는-키트.html" class="internal-link" target="_self" rel="noopener">경험을 일으키는 키트</a>를 만들고, <br>워크숍과 전시로 이야기를 풀고 있습니다.<br>개인 작업 외에<br>
+메타미디어 콜렉티브 ‘PROTOROOM(프로토룸)’으로 활동하고,<br>
+대학에서 학생들을 가르칩니다.]]></description><link>김승범-(seungbum-kim).html</link><guid isPermaLink="false">김승범 (Seungbum Kim).md</guid><pubDate>Sun, 30 Oct 2022 17:49:02 GMT</pubDate></item><item><title><![CDATA[몇 가지 경험]]></title><description><![CDATA[ 
+ <br>이 사이트의 사용법이 아닌,<br>
+경험이라 표현하고자 합니다.<br>이 웹사이트를 경험하면서<br>
+<br>작게 쪼개진 글이 <a data-href="여러 페이지로 분산" href="/여러-페이지로-분산.html" class="internal-link" target="_self" rel="noopener">여러 페이지로 분산</a>되어 있어 링크를 타고 돌아다니게 됩니다.
+<br>웹서핑처럼 길을 잃을 수도 있으나 옆으로 <a data-href="차곡차곡 쌓인 페이지" href="/차곡차곡-쌓인-페이지.html" class="internal-link" target="_self" rel="noopener">차곡차곡 쌓인 페이지</a>가 맥락을 유지하도록 도움을 줍니다.
+<br><a data-href="여러 경로" href="/여러-경로.html" class="internal-link" target="_self" rel="noopener">여러 경로</a>로 읽다보면 같은 페이지를 다시 방문하기도 합니다.
+<br><a data-href="Local-first Knowledge" href="/local-first-knowledge.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge</a>라는 개념을 읽어보고, 실천하는 데 도움을 얻을 수 있습니다.
+<br><a data-href="여전히 혼란스럽고 무슨 말인지 모르겠습니다" href="/여전히-혼란스럽고-무슨-말인지-모르겠습니다.html" class="internal-link" target="_self" rel="noopener">여전히 혼란스럽고 무슨 말인지 모르겠습니다</a>
+<br>스마트폰 같은 모바일 기기로도 정보를 살펴볼 수 있지만<br>
+되도록이면 랩톱이나 데스크톱의 웹브라우저로 경험해주세요.<br>작은 화면의 스마트폰에서는 <a data-href="차곡차곡 쌓인 페이지" href="/차곡차곡-쌓인-페이지.html" class="internal-link" target="_self" rel="noopener">차곡차곡 쌓인 페이지</a>가 표현되지 않습니다.]]></description><link>몇-가지-경험.html</link><guid isPermaLink="false">몇 가지 경험.md</guid><pubDate>Sat, 05 Nov 2022 16:58:20 GMT</pubDate></item><item><title><![CDATA[몇몇의 사건]]></title><description><![CDATA[ 
+ <br>
+<br>2019년 G사는 자사의 SNS 서비스를 출시 8년만에 종료하였습니다.
+<br>2020년 G사의 인증시스템이 중단되면서 해당 인증이 필요한 관련 서비스들이 약 한 시간 동안 전 세계적으로 멈추는 장애가 발생했습니다.
+<br>2021년 K통신사가 네트워크 장비를 교체하는 도중 명령어 하나를 빠뜨리면서 해당 통신망을 쓰는 인터넷 및 유/무선 전화가 전국적으로 마비되었습니다.
+<br>2022년 데이터센터의 화재로 K사의 다수 서비스에 장애가 발생했고, 해당 플랫폼에 의존하는 각종 서비스들이 멈추면서 전국이 혼란을 겪었습니다.
+<br>앞으로도 이런 유사한 사건은 계속 발생할 수 있습니다. <a data-href="There Is No Cloud" href="/there-is-no-cloud.html" class="internal-link" target="_self" rel="noopener">There Is No Cloud</a>
+<br><a data-href="거대언어모델과 대화하기" href="/거대언어모델과-대화하기.html" class="internal-link" target="_self" rel="noopener">거대언어모델과 대화하기</a> (파파고 번역)
+Q : There are often cases in which the services of giant Internet companies are interrupted or out of service immediately. What do these events suggest now that Internet services have become a part of life?<br>
+GPT-3 : There are a few possible explanations for why Internet services might be interrupted or out of service. One possibility is that the company providing the service is experiencing technical difficulties. Another possibility is that the company is undergoing maintenance or updates. Finally, it is also possible that the company is experiencing a high volume of traffic and is unable to keep up with demand. Whatever the reason, these events suggest that Internet services are not always reliable and that people should be prepared for disruptions in service.
+Q : 거대 인터넷 기업들의 서비스가 중단되거나 장애가 발생하여 당장 사용할 수 없는 사건들이 종종 발생합니다. 인터넷 서비스가 생활의 일부가 된 지금 이런 사건들이 시사하는 점은 무엇인가요?<br>
+GPT-3 : 인터넷 서비스가 중단되거나 서비스가 중단될 수 있는 이유에 대해서는 몇 가지 가능한 설명이 있다. 한 가지 가능성은 서비스를 제공하는 회사가 기술적 어려움을 겪고 있다는 것이다. 또 다른 가능성은 회사가 유지 보수 또는 업데이트를 진행 중이라는 것입니다. 마지막으로, 이 회사는 많은 양의 트래픽을 경험하고 있으며 수요를 따라가지 못할 수도 있습니다. 이유가 무엇이든, 이러한 사건들은 인터넷 서비스가 항상 신뢰할 수 있는 것은 아니며 사람들이 서비스 중단에 대비해야 한다는 것을 시사한다.
+]]></description><link>몇몇의-사건.html</link><guid isPermaLink="false">몇몇의 사건.md</guid><pubDate>Sat, 05 Nov 2022 13:35:21 GMT</pubDate></item><item><title><![CDATA[문제에 대한 해법이나 방법론]]></title><description><![CDATA[ 
+ <br>OOO 방법론,<br>
+OOO 씽킹,<br>
+등 등<br>우리가 살아가면서 만나는<br>
+수 많은 문제 상황들은<br>여러 관점과 언어로 설명되고,<br>
+해법이 일반화되어<br>다양한 방법론과 사고방식으로 만들어집니다.<br><a data-href="Local-first Knowledge" href="/local-first-knowledge.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge</a>는 그런 방법론은 아닙니다.]]></description><link>문제에-대한-해법이나-방법론.html</link><guid isPermaLink="false">문제에 대한 해법이나 방법론.md</guid><pubDate>Sat, 05 Nov 2022 12:24:52 GMT</pubDate></item><item><title><![CDATA[번역어]]></title><description><![CDATA[ 
+ <br><a data-href="Local-first Software" href="/local-first-software.html" class="internal-link" target="_self" rel="noopener">Local-first Software</a> / <a data-href="Local-first Knowledge" href="/local-first-knowledge.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge</a><br><a data-href="Local-first" href="/local-first.html" class="internal-link" target="_self" rel="noopener">Local-first</a><br>
+<br>지역-먼저?
+<br>지역-우선?
+<br>로컬-우선?
+<br>어떻게 붙이든 어색하고 <a data-href="컴퓨팅 맥락의 Local" href="/컴퓨팅-맥락의-local.html" class="internal-link" target="_self" rel="noopener">컴퓨팅 맥락의 Local</a> 의미 전달도 잘 되지 않습니다.<br><a data-href="Local" href="/local.html" class="internal-link" target="_self" rel="noopener">Local</a>이라는 단어가 여러 의미와 범위로 해석될 수 있다는 생각이 들었습니다.]]></description><link>번역어.html</link><guid isPermaLink="false">번역어.md</guid><pubDate>Sat, 05 Nov 2022 15:59:11 GMT</pubDate></item><item><title><![CDATA[분산버전관리시스템]]></title><description><![CDATA[ 
+ <br>Distributed Version Control System (DVCS)<br>대표적으로 Git이 있으며<br>수 많은 개발자와 창작자들이<br>
+Git 기반의 웹서비스인 Github을 통해<br>
+분산버전관리시스템의 장점을 경험하고 있습니다.<br>개발자의 도구이지만<br>
+<a data-href="컴퓨팅 분야의 개념에서 차용" href="/컴퓨팅-분야의-개념에서-차용.html" class="internal-link" target="_self" rel="noopener">컴퓨팅 분야의 개념에서 차용</a>할 수 있는<br>
+급진적이고 유용한 개념들이 담겨 있습니다.]]></description><link>분산버전관리시스템.html</link><guid isPermaLink="false">분산버전관리시스템.md</guid><pubDate>Fri, 04 Nov 2022 12:15:59 GMT</pubDate></item><item><title><![CDATA[사라질 것을 미리 선언하는 웹사이트]]></title><description><![CDATA[ 
+ <br>언젠가는 사라질 수 있음에도<br>
+사라질 것을 미리 선언하는 웹사이트는 없습니다.<br>그래서일까요?<br>새로운 정보와 지식이 인터넷의 수면 위로 오를 때<br>
+우리는 앎을 안(<a data-href="Local" href="/local.html" class="internal-link" target="_self" rel="noopener">Local</a>)으로 가져오기 보다는<br>
+언제 다시 확인할지 기약 없는<br>
+북마크의 폴더 속으로 넣어버립니다.<br>그 북마크의 기억마저 희미해질 때<br>
+아직 사라지지 않은 웹사이트의 정보와 지식은<br>
+수면 아래로 가라앉아버립니다.<br><a data-href="Local-first Knowledge를 위한 실천" href="/local-first-knowledge를-위한-실천.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge를 위한 실천</a>이 필요할지도 모릅니다.]]></description><link>사라질-것을-미리-선언하는-웹사이트.html</link><guid isPermaLink="false">사라질 것을 미리 선언하는 웹사이트.md</guid><pubDate>Sat, 05 Nov 2022 17:13:56 GMT</pubDate></item><item><title><![CDATA[여러 경로]]></title><description><![CDATA[ 
+ <br>읽는 순서가 있다고 생각하지 마세요.<br>우리가 말을 할 때,<br>
+혹은 어떤 글을 쓸 때,<br>
+그 결과물은<br>
+생각의 <a data-href="여러 경로" href="/여러-경로.html" class="internal-link" target="_self" rel="noopener">여러 경로</a> 중 하나일지도 모릅니다.<br><a data-href="우리가 생각하는 대로" href="/우리가-생각하는-대로.html" class="internal-link" target="_self" rel="noopener">우리가 생각하는 대로</a> 표현하게 된다면,<br>
+그 모습은 잘 제본된 책이 아니라<br><a data-href="여러 페이지로 분산" href="/여러-페이지로-분산.html" class="internal-link" target="_self" rel="noopener">여러 페이지로 분산</a>되고 펼쳐져서<br>
+이곳 저곳에 붙어있는<br>
+메모지의 모습일 것입니다.]]></description><link>여러-경로.html</link><guid isPermaLink="false">여러 경로.md</guid><pubDate>Sat, 05 Nov 2022 11:27:25 GMT</pubDate></item><item><title><![CDATA[여러 페이지로 분산]]></title><description><![CDATA[ 
+ <br>하나의 글일지라도<br>
+여러 페이지로 쪼개져서<br>
+하이퍼링크로 연결된다면<br>읽기의 순서는<br>
+<a data-href="여러 경로" href="/여러-경로.html" class="internal-link" target="_self" rel="noopener">여러 경로</a>가 됩니다.<br>이 곳은<br>
+<a data-href="index" href="/index.html" class="internal-link" target="_self" rel="noopener">index</a>이라는 시작은 있지만,<br>
+그 끝은 알기 어렵습니다.<br>어쩌면 분산된 페이지는<br>
+<a data-href="우리가 생각하는 대로" href="/우리가-생각하는-대로.html" class="internal-link" target="_self" rel="noopener">우리가 생각하는 대로</a><br>
+만들어지는 형태일 수 있습니다.<br><a data-href="WikiWiki" href="/wikiwiki.html" class="internal-link" target="_self" rel="noopener">WikiWiki</a>와 비슷하다고 생각할 수 있는데요,<br>
+위키가 하나의 페이지에 한 가지 개념이나 생각을 담는다면,<br>
+여기서는 하나의 생각을 여러 페이지의 관계로<br>
+설명하고자 했습니다.]]></description><link>여러-페이지로-분산.html</link><guid isPermaLink="false">여러 페이지로 분산.md</guid><pubDate>Fri, 06 Sep 2024 07:14:28 GMT</pubDate></item><item><title><![CDATA[여러분의 발자국]]></title><description><![CDATA[ 
+ <br>사전적 정의
+Footprint<br>
+- (사람, 동물의) 발자국<br>
+- (무엇이) 차지하는 공간<br>
+(네이버 사전)
+<br><a data-href="거대언어모델과 대화하기" href="/거대언어모델과-대화하기.html" class="internal-link" target="_self" rel="noopener">거대언어모델과 대화하기</a> (파파고 번역)
+Q : What do footprints mean while surfing the web?<br>
+GPT-3 : Footprints are often used to refer to the path that a user takes while surfing the web. This path can be tracked in order to better understand how users interact with a website or application. Additionally, footprints can be used to troubleshoot issues that users may be having while surfing the web.
+Q : 웹서핑 중 발자국은 무엇을 의미합니까?<br>
+GPT-3 : Footprint는 사용자가 웹서핑을 하는 동안 이동하는 경로를 나타내는 데 자주 사용됩니다. 이 경로는 사용자가 웹 사이트 또는 애플리케이션과 상호 작용하는 방식을 더 잘 이해하기 위해 추적할 수 있습니다. 또한 발자국을 사용하여 웹을 서핑하는 동안 사용자가 겪을 수 있는 문제를 해결할 수 있습니다.
+]]></description><link>여러분의-발자국.html</link><guid isPermaLink="false">여러분의 발자국.md</guid><pubDate>Sat, 05 Nov 2022 15:46:28 GMT</pubDate></item><item><title><![CDATA[여전히 혼란스럽고 무슨 말인지 모르겠습니다]]></title><description><![CDATA[ 
+ <br>죄송합니다.<br>이곳이 제공하는 <a data-href="몇 가지 경험" href="/몇-가지-경험.html" class="internal-link" target="_self" rel="noopener">몇 가지 경험</a>은<br>
+생소하고, 불친절할 수 있습니다.<br><a data-href="여러 페이지로 분산" href="/여러-페이지로-분산.html" class="internal-link" target="_self" rel="noopener">여러 페이지로 분산</a>된 이 곳은<br>
+페이지들의 링크과 관계를 통해<br>
+<a data-href="Local-first Knowledge" href="/local-first-knowledge.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge</a>를 설명하고,<br><a data-href="일 년 후에 사라지는" href="/일-년-후에-사라지는.html" class="internal-link" target="_self" rel="noopener">일 년 후에 사라지는</a> 선언을 통해<br>
+독자 중에 <a data-href="Local-first Knowledge를 위한 실천" href="/local-first-knowledge를-위한-실천.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge를 위한 실천</a>을<br>
+시도해볼 수 있도록 만들었습니다.]]></description><link>여전히-혼란스럽고-무슨-말인지-모르겠습니다.html</link><guid isPermaLink="false">여전히 혼란스럽고 무슨 말인지 모르겠습니다.md</guid><pubDate>Sat, 05 Nov 2022 17:07:20 GMT</pubDate></item><item><title><![CDATA[우리가 생각하는 대로]]></title><description><![CDATA[ 
+ <br><a rel="noopener" class="external-link" href="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/" target="_blank">https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/</a><br>"As We May Think"<br>
+<br>기록을 확장하는 새로운 방법 - 사이클롭스 카메라 및 건식 사진 (New ways to extend the record - The cyclops camera and dry photography)
+<br>기록물을 관리 가능한 크기로 축소 - 마이크로포토그래피 (Reducing the written record to manageable size - Microphotography)
+<br>작가는 쓸 필요가 없다 - 작가는 자신의 생각을 기계와 이야기할 수 있다. (The author need not write - He could talk his thoughts to a machine)
+<br>단순 반복적 사고는 논리의 법칙에 따라 기계로 할 수 있다. (Simple repetitive thought could be done by machine, following laws of logic)
+<br>기록을 조회하는 방법 - 기계는 파일을 검토하고 관련 항목을 선택한다. (How to consult the record - Machines examine the files and select related items)
+<br>연관성에 의한 인간의 두뇌 파일 - 메멕스는 이것을 기계적으로 할 수 있다. (The human brain files by association - The Memex could do this mechanically)
+<br>메멕스에서 생각의 "흔적" 쌓기 - 기억과 달리, 그것들은 결코 사라지지 않을 것이다. (Building "trails" of thought on the Memex - Unlike memory, they would never fade)
+<br>위 글은, 1945년 7월 발행된 Atlantic Monthly를 그 해 9월 재발행한 Life Magazine의 꼭지글입니다.<br>
+<br><a rel="noopener" class="external-link" href="http://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20(Life%20Magazine%209-10-1945).pdf" target="_blank">http://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20(Life%20Magazine%209-10-1945).pdf</a>
+<br>"As We May Think"의 첫 발행과 재발행 사이 히로시마와 나가사키에 핵폭탄이 떨어집니다.
+<br>1, 2번의 내용은 이제는 당시 상상을 뛰어넘는 기술매체로 일상이 되었습니다.<br>3 ~ 7번은 현재 진행형의 이야기로 다시 읽을 수 있습니다.<br>
+<br>3, 4, 5번은 마치 오늘날 <a data-href="거대언어모델과 대화하기" href="/거대언어모델과-대화하기.html" class="internal-link" target="_self" rel="noopener">거대언어모델과 대화하기</a> 같습니다.
+<br>인간 외부의 장치로 위임하며<br>
+우리가 정말 "우리가 생각하는 대로" 생각하고 있는지<br>
+질문하는 과정에서<br>
+<a data-href="Local-first Knowledge" href="/local-first-knowledge.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge</a>를 고민해볼 수 있습니다.]]></description><link>우리가-생각하는-대로.html</link><guid isPermaLink="false">우리가 생각하는 대로.md</guid><pubDate>Mon, 14 Nov 2022 06:29:02 GMT</pubDate></item><item><title><![CDATA[워드 커닝햄]]></title><description><![CDATA[ 
+ <br>Ward Cunningham<br>웹의 하이퍼링크를<br>
+독자가 저자가 된다는<br>
+다른 관점으로 풀어서<br>
+<a data-href="WikiWiki" href="/wikiwiki.html" class="internal-link" target="_self" rel="noopener">WikiWiki</a>를 만들었고,<br>이를 다시<br>
+탈중심적이고 합창처럼 서로 조화를 이루는<br>
+새로운 구조로 풀어서<br>
+<a data-href="Federated Wiki" href="/federated-wiki.html" class="internal-link" target="_self" rel="noopener">Federated Wiki</a>를 만들었습니다.]]></description><link>워드-커닝햄.html</link><guid isPermaLink="false">워드 커닝햄.md</guid><pubDate>Sat, 05 Nov 2022 11:15:27 GMT</pubDate></item><item><title><![CDATA[이 사이트는 2023년 10월 31일 호스팅을 종료]]></title><description><![CDATA[ 
+ <br><a data-href="일 년 후에 사라지는" href="/일-년-후에-사라지는.html" class="internal-link" target="_self" rel="noopener">일 년 후에 사라지는</a> 웹사이트가 되기 위해<br>
+<a data-href="Obsidian 웹 출판 서비스" href="/obsidian-웹-출판-서비스.html" class="internal-link" target="_self" rel="noopener">Obsidian 웹 출판 서비스</a>의<br>
+<a data-href="자동 결제를 꺼둔 구독 서비스" href="/자동-결제를-꺼둔-구독-서비스.html" class="internal-link" target="_self" rel="noopener">자동 결제를 꺼둔 구독 서비스</a>로 호스팅되고 있습니다.]]></description><link>이-사이트는-2023년-10월-31일-호스팅을-종료.html</link><guid isPermaLink="false">이 사이트는 2023년 10월 31일 호스팅을 종료.md</guid><pubDate>Sat, 05 Nov 2022 07:53:40 GMT</pubDate></item><item><title><![CDATA[이 웹사이트를 포킹]]></title><description><![CDATA[ 
+ <br><a data-href="Obsidian" href="/obsidian.html" class="internal-link" target="_self" rel="noopener">Obsidian</a>이라는 앱을 사용해서<br>
+이 글을 작성하고 있지만<br>
+<a data-href="Local-first Software" href="/local-first-software.html" class="internal-link" target="_self" rel="noopener">Local-first Software</a>를 지향하는 덕분에<br>
+특정 앱에 의존하지 않고도 모든 데이터를 관리할 수 있습니다.<br><a data-href="Github 저장소" href="/github-저장소.html" class="internal-link" target="_self" rel="noopener">Github 저장소</a>에서 이 프로젝트를<br>
+<a data-href="포킹" href="/포킹.html" class="internal-link" target="_self" rel="noopener">포킹</a>해서 여러분의 컴퓨터에 파일을 저장합니다.<br>더 간단한 방법으로는 (하지만 <a data-href="분산버전관리시스템" href="/분산버전관리시스템.html" class="internal-link" target="_self" rel="noopener">분산버전관리시스템</a>을 이용할 수 없습니다)<br>
+<a data-href="Github 저장소" href="/github-저장소.html" class="internal-link" target="_self" rel="noopener">Github 저장소</a>에서 이 프로젝트를<br>
+Zip파일로 내려받을 수도 있습니다.<br><img alt="github_download.png" src="/images/github_download.png" style="width: 300px; max-width: 100%;"><br>저장한 폴더를<br>
+<a data-href="Obsidian" href="/obsidian.html" class="internal-link" target="_self" rel="noopener">Obsidian</a>을 이용해서 "Open Vault" 메뉴로 열면<br>
+이 웹사이트의 내용을 여러분의 <a data-href="Local" href="/local.html" class="internal-link" target="_self" rel="noopener">Local</a> 컴퓨터에서 소유하고<br>
+자유롭게 편집을 이어나갈 수 있습니다.]]></description><link>이-웹사이트를-포킹.html</link><guid isPermaLink="false">이 웹사이트를 포킹.md</guid><pubDate>Sun, 06 Nov 2022 06:47:51 GMT</pubDate><enclosure url="images/github_download.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="images/github_download.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[이 웹사이트의 저자]]></title><description><![CDATA[ 
+ <br>만약 여러분이 <br><a data-href="Local-first Knowledge" href="/local-first-knowledge.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge</a>에 대한 생각에 어느정도 공감하고,<br>이 웹사이트를 <a data-href="포킹" href="/포킹.html" class="internal-link" target="_self" rel="noopener">포킹</a>해서<br>
+<a data-href="Obsidian" href="/obsidian.html" class="internal-link" target="_self" rel="noopener">Obsidian</a>과 같은 <a data-href="Local-first Software" href="/local-first-software.html" class="internal-link" target="_self" rel="noopener">Local-first Software</a>를 지향하는 도구로<br>
+편집을 시작했다면,<br>이 웹사이트의 저자가 된 것입니다.<br>
+<br><a data-href="김승범 (Seungbum Kim)" href="/김승범-(seungbum-kim).html" class="internal-link" target="_self" rel="noopener">김승범 (Seungbum Kim)</a>
+<br>여러분의 이름으로 <a data-href="페이지를 만드세요" href="/페이지를-만드세요.html" class="internal-link" target="_self" rel="noopener">페이지를 만드세요</a>.
+]]></description><link>이-웹사이트의-저자.html</link><guid isPermaLink="false">이 웹사이트의 저자.md</guid><pubDate>Sat, 05 Nov 2022 17:20:17 GMT</pubDate></item><item><title><![CDATA[일 년 후에 사라지는]]></title><description><![CDATA[ 
+ <br>정확히는 딱 1년만 <a data-href="Obsidian 웹 출판 서비스" href="/obsidian-웹-출판-서비스.html" class="internal-link" target="_self" rel="noopener">Obsidian 웹 출판 서비스</a>를 구독하기로 했습니다.<br><a data-href="창작 계약서의 1년 유지조항" href="/창작-계약서의-1년-유지조항.html" class="internal-link" target="_self" rel="noopener">창작 계약서의 1년 유지조항</a>에 따른 것이면서<br>
+동시에 이 작업의 중요한 아이디어 중 하나가 되었습니다.<br>"<a data-href="사라질 것을 미리 선언하는 웹사이트" href="/사라질-것을-미리-선언하는-웹사이트.html" class="internal-link" target="_self" rel="noopener">사라질 것을 미리 선언하는 웹사이트</a>"<br>인터넷에는 훌륭한 무료 출판/호스팅 서비스가 있고,<br>
+1년 유지에는 큰 어려움이 없습니다.<br>
+오히려 일부 거대 기업이 제공하는 서비스는<br>
+평생 웹 출판/호스팅을 유지할 수 있다는 착각에 빠집니다.<br>정해진 시간을 느끼기에는<br>
+<a data-href="자동 결제를 꺼둔 구독 서비스" href="/자동-결제를-꺼둔-구독-서비스.html" class="internal-link" target="_self" rel="noopener">자동 결제를 꺼둔 구독 서비스</a>가 더 적합하다고 생각했습니다.<br>그래서 <a data-href="이 사이트는 2023년 10월 31일 호스팅을 종료" href="/이-사이트는-2023년-10월-31일-호스팅을-종료.html" class="internal-link" target="_self" rel="noopener">이 사이트는 2023년 10월 31일 호스팅을 종료</a>합니다.]]></description><link>일-년-후에-사라지는.html</link><guid isPermaLink="false">일 년 후에 사라지는.md</guid><pubDate>Sat, 05 Nov 2022 17:08:00 GMT</pubDate></item><item><title><![CDATA[임시의 정보]]></title><description><![CDATA[ 
+ <br>정확히는 <a data-href="Local-first Knowledge" href="/local-first-knowledge.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge</a>에 대한<br>
+이야기를 해보고자 합니다.]]></description><link>임시의-정보.html</link><guid isPermaLink="false">임시의 정보.md</guid><pubDate>Thu, 03 Nov 2022 08:42:58 GMT</pubDate></item><item><title><![CDATA[자동 결제를 꺼둔 구독 서비스]]></title><description><![CDATA[ 
+ <br>자동 결제를 끈 서비스는 다음과 같은 메시지를 내놓았습니다.<br><img alt="Pasted image 20221105164021.png" src="/images/pasted-image-20221105164021.png"><br><a data-href="이 사이트는 2023년 10월 31일 호스팅을 종료" href="/이-사이트는-2023년-10월-31일-호스팅을-종료.html" class="internal-link" target="_self" rel="noopener">이 사이트는 2023년 10월 31일 호스팅을 종료</a>합니다.<br>그런데,<br>"Your sites will not be renewed in the future" 라는 말이 마치 <br>"너의 지식과 경험은 미래에 더 이상 유지되지 않는다" <br>라고 말하는 것 같습니다.]]></description><link>자동-결제를-꺼둔-구독-서비스.html</link><guid isPermaLink="false">자동 결제를 꺼둔 구독 서비스.md</guid><pubDate>Sat, 05 Nov 2022 07:43:55 GMT</pubDate><enclosure url="images/pasted-image-20221105164021.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="images/pasted-image-20221105164021.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[지식과 정보를 관리하는 노트앱]]></title><description><![CDATA[ 
+ <br>생산성을 위한 실천, 혹은 이를 도와주는 앱은<br>
+크게 두 가지 카테고리가 있는 것 같습니다.<br>
+<br>시간과 일정을 관리하기
+<br>지식과 정보를 관리하기
+<br>수 많은 방법론과 앱이 쏟아지고,<br>
+저를 포함한 많은 사람들이 그 사이를 방황하는 것을 보면,<br>이 분야는 영원히 해결되지 않을 것 같습니다.<br><br>
+<br>제텔카스텐을 여기에서 언급하면 좋을까? 
+]]></description><link>지식과-정보를-관리하는-노트앱.html</link><guid isPermaLink="false">지식과 정보를 관리하는 노트앱.md</guid><pubDate>Thu, 03 Nov 2022 13:13:36 GMT</pubDate></item><item><title><![CDATA[차곡차곡 쌓인 페이지]]></title><description><![CDATA[ 
+ <br>이렇게 쌓인 페이지는 <br><img alt="Pasted image 20221106005320.png" src="/images/pasted-image-20221106005320.png" style="width: 300px; max-width: 100%;"><br><a data-href="여러 경로" href="/여러-경로.html" class="internal-link" target="_self" rel="noopener">여러 경로</a>로 돌아다닐 수 있는<br>
+이 사이트 안에서<br><a data-href="여러분의 발자국" href="/여러분의-발자국.html" class="internal-link" target="_self" rel="noopener">여러분의 발자국</a>이 됩니다.<br>물론 이전으로 돌아가거나 쌓인 페이지를 닫아<br>
+새로운 경로로 <a data-href="여러분의 발자국" href="/여러분의-발자국.html" class="internal-link" target="_self" rel="noopener">여러분의 발자국</a>을 남길 수도 있습니다.<br>이 표현 방식은,<br>
+브라우저의 방문기록(히스토리)이나<br>
+탭 기능으로 여러 페이지를 띄워놓는 것과 유사하게 보입니다.<br><a data-href="WikiWiki" href="/wikiwiki.html" class="internal-link" target="_self" rel="noopener">WikiWiki</a> 개념을 만든 <a data-href="워드 커닝햄" href="/워드-커닝햄.html" class="internal-link" target="_self" rel="noopener">워드 커닝햄</a>이<br>
+자신의 새로운 WikiWiki인 <a data-href="Federated Wiki" href="/federated-wiki.html" class="internal-link" target="_self" rel="noopener">Federated Wiki</a>에서도 실험하고 있습니다.<br><a data-href="Obsidian" href="/obsidian.html" class="internal-link" target="_self" rel="noopener">Obsidian</a>에서는 Andy's Mode라고 불리며<br>
+많은 사람들이 애용하는 플러그인이 되었고,<br>
+현재는 기본 기능으로 들어가게 됩니다.]]></description><link>차곡차곡-쌓인-페이지.html</link><guid isPermaLink="false">차곡차곡 쌓인 페이지.md</guid><pubDate>Sun, 13 Nov 2022 06:45:38 GMT</pubDate><enclosure url="images/pasted-image-20221106005320.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="images/pasted-image-20221106005320.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[창작 계약서의 1년 유지조항]]></title><description><![CDATA[ 
+ <br><a data-href="SeMA Coral" href="/sema-coral.html" class="internal-link" target="_self" rel="noopener">SeMA Coral</a> 창작 계약서
+제5조 (작가의 사업 참여)<br>
+3.  웹 활용 창작물의 도메인이 개설된 날로부터 12개월까지를 계약기간으로 하며, 작가는 해당 기간 동안 웹 활용 창작물의 웹페이지(본 사업의 도메인 주소와는 별도의 웹페이지 주소)를 불특정 온라인 사용자가 접속할 수 있는 상태로 유지해야 한다.
+]]></description><link>창작-계약서의-1년-유지조항.html</link><guid isPermaLink="false">창작 계약서의 1년 유지조항.md</guid><pubDate>Sat, 05 Nov 2022 07:55:58 GMT</pubDate></item><item><title><![CDATA[컴퓨팅 맥락의 Local]]></title><description><![CDATA[ 
+ <br>컴퓨팅에서 <a data-href="Local" href="/local.html" class="internal-link" target="_self" rel="noopener">Local</a>은<br>
+정해진 특정 위치나 지역이라기 보다는<br>
+맥락에 따라 다양한 상대적 의미를 가집니다.<br>
+<br>특정 폴더는 컴퓨터 저장장치 안에서 Local이라 말할 수 있습니다.
+<br>하나의 컴퓨터는 회사나 학교 네트워크 안에서 Local이라 말할 수 있습니다.
+<br>특정 기관의 네트워크는 국가 네트워크 안에서 Local이라 말할 수 있습니다.
+<br>한 국가의 네트워크는 전세계 네트워크 안에서 Local이라 말할 수 있습니다.
+]]></description><link>컴퓨팅-맥락의-local.html</link><guid isPermaLink="false">컴퓨팅 맥락의 Local.md</guid><pubDate>Sat, 05 Nov 2022 12:45:22 GMT</pubDate></item><item><title><![CDATA[컴퓨팅 분야의 개념에서 차용]]></title><description><![CDATA[ 
+ <br>당연한 일인지도 모릅니다.<br>일상어처럼 보이지만 컴퓨팅 분야에서 사용되는 용어들이<br>
+우리(특히 창작자)의 삶과 사고방식에 들어오고 있습니다.<br>디버깅(Debugging), <a data-href="해킹" href="/해킹.html" class="internal-link" target="_self" rel="noopener">해킹</a>(Hacking),<br>
+<a data-href="포킹" href="/포킹.html" class="internal-link" target="_self" rel="noopener">포킹</a>(Forking), 코딩(Coding), 오픈소스(Open-source), ...<br>이 개념들은 컴퓨팅 문화와 그 맥락을 이해할 때<br>
+온전히 체화할 수 있습니다.]]></description><link>컴퓨팅-분야의-개념에서-차용.html</link><guid isPermaLink="false">컴퓨팅 분야의 개념에서 차용.md</guid><pubDate>Fri, 04 Nov 2022 12:16:32 GMT</pubDate></item><item><title><![CDATA[페이지를 만드세요]]></title><description><![CDATA[ 
+ <br>이 글을 작성할 때 사용한 <a data-href="Obsidian" href="/obsidian.html" class="internal-link" target="_self" rel="noopener">Obsidian</a>의 경우,<br>
+쌍대괄호로 묶은 글자는<br>
+새로운 페이지를 만드는 링크가 됩니다.<br>[[원하는 글자]]
+Copy<br><a data-href="WikiWiki" href="/wikiwiki.html" class="internal-link" target="_self" rel="noopener">WikiWiki</a>에서 사용된 오랜 문법 중 하나입니다.<br>아쉽게도 이 웹사이트에서는<br>
+<a data-href="WikiWiki" href="/wikiwiki.html" class="internal-link" target="_self" rel="noopener">WikiWiki</a>처럼 직접 페이지를 수정하거나<br>
+새로운 페이지로 링크를 만드는 기능을 제공하진 않습니다.<br>하지만 <a data-href="Local-first Knowledge를 위한 실천" href="/local-first-knowledge를-위한-실천.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge를 위한 실천</a>을 통해<br>
+여러분의 로컬 컴퓨터에 자료를 담아 살펴볼 수 있습니다.]]></description><link>페이지를-만드세요.html</link><guid isPermaLink="false">페이지를 만드세요.md</guid><pubDate>Sat, 05 Nov 2022 17:21:50 GMT</pubDate></item><item><title><![CDATA[포킹]]></title><description><![CDATA[ 
+ <br>Forking<br>Fork (Oxford Learner's Dictionary)
+to divide into two parts that lead in different directions
+다른 방향으로 이끄는 두 부분으로 나누다 (파파고 번역)
+<br>오늘날 오픈소스 소프트웨어와 문화를 이끄는<br>
+Git과 같은 <a data-href="분산버전관리시스템" href="/분산버전관리시스템.html" class="internal-link" target="_self" rel="noopener">분산버전관리시스템</a>에서 <br>다른 소유자가 만든 프로젝트를<br>
+포킹을 통해<br>
+내가 수정 가능한 프로젝트로 가져올 수 있습니다.<br><a data-href="Local-first Knowledge를 위한 실천" href="/local-first-knowledge를-위한-실천.html" class="internal-link" target="_self" rel="noopener">Local-first Knowledge를 위한 실천</a>으로 <a data-href="이 웹사이트를 포킹" href="/이-웹사이트를-포킹.html" class="internal-link" target="_self" rel="noopener">이 웹사이트를 포킹</a>할 수 있습니다.]]></description><link>포킹.html</link><guid isPermaLink="false">포킹.md</guid><pubDate>Sat, 05 Nov 2022 16:54:29 GMT</pubDate></item><item><title><![CDATA[해킹]]></title><description><![CDATA[ 
+ <br>Hacking (Oxford Learner's Dictionary)
+the activity of using computers to get access to data in somebody else's computer or phone system without permission
+허락 없이 다른 사람의 컴퓨터나 전화 시스템에 있는 데이터에 접근하기 위해 컴퓨터를 사용하는 활동 (구글 번역)
+]]></description><link>해킹.html</link><guid isPermaLink="false">해킹.md</guid><pubDate>Thu, 03 Nov 2022 13:29:36 GMT</pubDate></item></channel></rss>
